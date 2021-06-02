@@ -1,4 +1,4 @@
-[![SkyHawk Userbot](https://img.shields.io/github/message=SkyHawk Userbot&color=blue&logo=github)](https://github.com/don1900/SkyHawk)
+[![SkyHawk Userbot](message=SkyHawk Userbot)](https://github.com/don1900/SkyHawk)
 [![stars - SkyHawk Userbot](https://img.shields.io/github/stars/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
 [![forks - SkyHawk Userbot](https://img.shields.io/github/forks/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
 [![GitHub tag](https://img.shields.io/github/tag/don1900/SkyHawk?include_prereleases=&sort=semver)](https://github.com/don1900/SkyHawk/releases/)
