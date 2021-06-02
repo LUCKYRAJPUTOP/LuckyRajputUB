@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $Personal_REPO == "SkyHawk" ]]
+    if [[ $SkyHawkuserbot_REPO == "SkyHawk" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2RvbjE5MDAvU2t5SGF3a3VzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $Personal_REPO == "Skyhawk" ]]
+    elif [[ $SkyHawkuserbot_REPO == "Skyhawk" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2RvbjE5MDAvU2t5SGF3a3VzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
-    elif [[ $Personal_REPO =~ $regex ]]
+    elif [[ $SkyHawkuserbot_REPO =~ $regex ]]
     then
-        if [[ $Personal_REPO_BRANCH ]]
+        if [[ $SkyHawkuserbot_REPO_BRANCH ]]
         then
-            echo "${Personal_REPO}/archive/${Personal_REPO_BRANCH}.zip"
+            echo "${SkyHawkuserbot_REPO}/archive/${SkyHawkuserbot_REPO_BRANCH}.zip"
         else
-            echo "${Personal_REPO}/archive/master.zip"
+            echo "${SkyHawkuserbot_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL2RvbjE5MDAvU2t5SGF3a3VzZXJib3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
@@ -30,7 +30,7 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    PersonalPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    SkyHawkuserbotPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
