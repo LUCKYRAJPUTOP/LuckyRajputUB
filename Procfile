@@ -1,1 +1,1 @@
-worker: bash personalbot
+worker: bash SkyHawk
