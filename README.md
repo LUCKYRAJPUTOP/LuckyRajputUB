@@ -1,5 +1,5 @@
 [![Personal-Userbot](message=Personal-Userbot&color=blue&logo=github)](https://github.com/don1900/SkyHawk)
-[![stars - Personal-Userbot](https://img.shields.io/github/stars/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
+[![stars - Personal-Userbot](https://img.shields.io/github/stars/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
 [![forks - Personal-Userbot](https://img.shields.io/github/forks/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
 [![GitHub tag](https://img.shields.io/github/tag/Furious-XY/Personal-Userbot?include_prereleases=&sort=semver)](https://github.com/Furious-XY/Personal-Userbot/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
