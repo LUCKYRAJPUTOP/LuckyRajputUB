@@ -1,1 +1,1 @@
-worker: bash SkyHawk
+worker: bash skyhawk
