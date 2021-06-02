@@ -1,9 +1,9 @@
-[![Personal-Userbot](message=Personal-Userbot&color=blue&logo=github)](https://github.com/don1900/SkyHawk)
-[![stars - Personal-Userbot](https://img.shields.io/github/stars/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
-[![forks - Personal-Userbot](https://img.shields.io/github/forks/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
+[![SkyHawk Userbot](https://img.shields.io&message=SkyHawk Userbot&color=blue&logo=github)](https://github.com/don1900/SkyHawk)
+[![stars - SkyHawk Userbot](https://img.shields.io/github/stars/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
+[![forks - SkyHawk Userbot](https://img.shields.io/github/forks/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
 [![GitHub tag](https://img.shields.io/github/tag/don1900/SkyHawk?include_prereleases=&sort=semver)](https://github.com/don1900/SkyHawk/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
-[![issues - Personal-Userbot](https://img.shields.io/github/issues/don1900/SkyHawk)](https://github.com/don1900/SkyHawk/issues)
+[![issues - SkyHawk Userbot](https://img.shields.io/github/issues/don1900/SkyHawk)](https://github.com/don1900/SkyHawk/issues)
 [![View site-GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://github.com/don1900/SkyHawk)
 
 
