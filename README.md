@@ -10,15 +10,13 @@
 
 <h1 align="center"> 🇮🇳 SkyHawk 🇮🇳 </h1>
 
- - This is a simple userbot made by Team [Furious XY ](https://t.me/Furious_X_Y)for telegram. 
+ - This is a userbot made by Team [SkyHawk](https://t.me/SkyHawkSupport)for telegram. 
 
- - You can deploy your own [personal bot](https://github.com/Furious-XY/Personal-Userbot) and use it.
-
- - We made this userbot with the help of other userbot on telegram. All credit goes to its respective owners.
-
+ - You can deploy your own [SkyHawk USERBOT](https://github.com/don1900/SkyHawk) and use it.
+ 
  - Make and enjoy your bot
 
-[![PERSONAL BOT](https://telegra.ph/file/3b787d6a45c519e32fc2e.jpg)](https://t.me/Furious_X_Y)
+[![SkyHawk USERBOT](https://t.me/SkyHawkSupport)](https://telegra.ph/file/0fcde87dc3fd1d7b6dfe5.mp4)
 
 
 <details><summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
@@ -42,10 +40,6 @@
      <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffurious-xy%2Fpersonal-userbot&template=https%3A%2F%2Fgithub.com%2Ffurious-xy%2Fpersonal-userbot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
      </a>
 
-   - You can host it on also on other VPS
-       - [Zeet](https://zeet.co/new)
-       - [Uffizzi](https://uffizzi.com)
-       - Or any other hosting sites.
 
 
 ## Generating String Session
@@ -59,9 +53,9 @@
        - Install git package
            `pkg install git`
     - Clone this repository.
-           `git clone https://github.com/Furious-xy/personal-userbot.git`
+           `git clone https://github.com/don1900/SkyHawk.git`
     - Then Do
-           `cd personalbot`
+           `cd SkyHawk`
     - Run String Generator By
            `bash string.sh`
     - Then Fill The Required Details.
@@ -73,26 +67,20 @@
 <h2 align="center"> <a href="https://github.com/Harsh-78/Dark-userbot">💥 DARKBOT 💥</a></h2>
  
 
- ## • FURIOUS XY ※┄┄➳  <a href="https://github.com/Furious-xy" alt="FURIOUS-XY"> <img src="https://img.shields.io/badge/Furious-XY-E5E4E2?logo=github" /></a>
-
-### • Harsh-78 ※┄┄➳  <a href="https://github.com/Harsh-78" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
-
-### • FuriousXprince ※┄┄➳ <a href="https://github.com/FuriosXprince" alt="Harsh-78"> <img src="https://img.shields.io/badge/Harsh-78-E5E4E2?logo=github" /></a>
-
 # Official Support
 
-<a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SkyHawkSupport"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/Furious_X_Y"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SkyHawkSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Furious_X_Y)
+[![Contact Us](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/SkyHawkSupport)
 
 <details>
   <summary> <h3>• LICENSE •</h3> </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 Furious XY
+Copyright (C) 2021 Team-SkyHawk
 
 Poject [Personal bot](https://github.com/Furious-xy/personal-userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
