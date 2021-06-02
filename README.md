@@ -1,10 +1,10 @@
 [![Personal-Userbot](message=Personal-Userbot&color=blue&logo=github)](https://github.com/don1900/SkyHawk)
 [![stars - Personal-Userbot](https://img.shields.io/github/stars/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
-[![forks - Personal-Userbot](https://img.shields.io/github/forks/Furious-XY/Personal-Userbot?style=social)](https://github.com/Furious-XY/Personal-Userbot)
-[![GitHub tag](https://img.shields.io/github/tag/Furious-XY/Personal-Userbot?include_prereleases=&sort=semver)](https://github.com/Furious-XY/Personal-Userbot/releases/)
+[![forks - Personal-Userbot](https://img.shields.io/github/forks/don1900/SkyHawk?style=social)](https://github.com/don1900/SkyHawk)
+[![GitHub tag](https://img.shields.io/github/tag/don1900/SkyHawk?include_prereleases=&sort=semver)](https://github.com/don1900/SkyHawk/releases/)
 [![License](https://img.shields.io/badge/License-GNU-blue)](#license)
-[![issues - Personal-Userbot](https://img.shields.io/github/issues/Furious-XY/Personal-Userbot)](https://github.com/Furious-XY/Personal-Userbot/issues)
-[![View site-GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://furious-xy.github.io/Personal-Userbot/)
+[![issues - Personal-Userbot](https://img.shields.io/github/issues/don1900/SkyHawk)](https://github.com/don1900/SkyHawk/issues)
+[![View site-GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://github.com/don1900/SkyHawk)
 
 
 
