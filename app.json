@@ -1,7 +1,7 @@
 {
   "name": "Skyhawk USERBOT",
   "description": "ITS YOUR Skyhawk USERBOT MADE WITH LOVE... ❤ ENJOY ",
-  "logo": "https://telegra.ph/file/7e5c06d3a43a02f50295b.jpg",
+  "logo": "https://telegra.ph/file/43c27b398289bd0d427c2.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/19394b52001265d943584.mp4",
+      "value": "https://telegra.ph/file/6180b54f80c7c7adf432e.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
