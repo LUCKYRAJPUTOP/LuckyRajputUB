@@ -16,7 +16,7 @@
  
  - Make and enjoy your bot
 
-[![SkyHawk USERBOT](https://telegra.ph/file/7e5c06d3a43a02f50295b.jpg)](https://t.me/SkyHawkSupport)
+[![SkyHawk USERBOT](https://telegra.ph/file/375aacd0caf1f95bcc5f1.jpg)](https://t.me/SkyHawkSupport)
 
 
 <details><summary> <h1 align="center">🧾INSTRUCTIONS🧾</h1> </summary>
