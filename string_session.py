@@ -1,8 +1,41 @@
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
+import random
+from colorama import Fore, Style, Back
 
+Harsh = """
+
+█▀▄▀█ ▄▀█ █▀ ▀█▀ █▀▀ █▀█  
+█░▀░█ █▀█ ▄█ ░█░ ██▄ █▀▄  
+
+▄▀█ ▀█▀  
+█▀█ ░█░  
+
+█▀▄ ▄▀█ █▀█ █▄▀ █▄▄ █▀█ ▀█▀
+█▄▀ █▀█ █▀▄ █░█ █▄█ █▄█ ░█░
+"""
+
+logo = """
+
+
+▒█▀▀▄ ░█▀▀█ ▒█▀▀█ ▒█░▄▀ ▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀ 
+▒█░▒█ ▒█▄▄█ ▒█▄▄▀ ▒█▀▄░ ▒█▀▀▄ ▒█░░▒█ ░▒█░░ 
+▒█▄▄▀ ▒█░▒█ ▒█░▒█ ▒█░▒█ ▒█▄▄█ ▒█▄▄▄█ ░▒█░░
+"""
+Harsh_hu_bc = """
+⚡ 𝙼𝙰𝚂𝚃𝙴𝚁 𝙰𝚃 𝙳𝙰𝚁𝙺𝙱𝙾𝚃 🔥        
+
+
+"""
 print("")
-print("""Welcome To DarkBot String Session\nGenerator By @HARSH_78\n\n""")
+print(Style.BRIGHT + Fore.MAGENTA + Harsh)
+print(Style.RESET_ALL)
+print(Style.BRIGHT + Fore.CYAN + logo)
+print(Style.RESET_ALL)
+print(Style.BRIGHT + Fore.RED + Back.BLUE + Harsh_hu_bc)
+print("""𝙼𝙰𝙳𝙴 𝙱𝚈 𝙷𝙰𝚁𝚂𝙷 𝚆𝙸𝚃𝙷 𝙼𝙸𝙽𝙳""")
+print(Style.RESET_ALL)
+print("""Welcome To DarkBot String Session Generator By @HARSH_78\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -22,7 +55,7 @@ while True:
             )
 
             print(
-                "Thanks for Choosing DarkBot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing DarkBot Have A Good Time....Note That When You Terminate the old Session then Come Back And Generate A New String Session Old One Wont Work"
             )
     except:
         print("")
